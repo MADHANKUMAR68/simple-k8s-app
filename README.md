@@ -180,17 +180,6 @@ kubectl delete namespace simple-app
 
 ---
 
-## 📸 Screenshots to Include
-
-* Docker image build
-* Docker push
-* Kubernetes nodes
-* Pods running
-* Services
-* Browser output
-
----
-
 ## 💡 Key Learnings
 
 * Docker image creation and management
@@ -201,18 +190,4 @@ kubectl delete namespace simple-app
 
 ---
 
-## 📄 Resume Description
 
-Deployed a containerized web application on Kubernetes using Docker, Deployment, Namespace, and NodePort Service. Managed application lifecycle, scaling, and service exposure using kubectl.
-
----
-
-## ⭐ Future Improvements
-
-* Add Ingress for routing
-* Use ConfigMap
-* Add liveness and readiness probes
-* Implement CI/CD pipeline
-* Add monitoring (Prometheus & Grafana)
-
----
